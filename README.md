@@ -1,7 +1,4 @@
-### Hello world 😄
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning cooking
-- 👯 I’m looking to collaborate on my life
-- 💬 Ask me about anything
-- 📫 How to contact me: lvonryn@gmail.com
-- ⚡ Fun fact: i'm gay
+<h1> Olá, sou Lucas 👋🏻 </h1>
+
+- 💻 Aprendendo a programar
+- 🎓 Estudante do ensino médio
