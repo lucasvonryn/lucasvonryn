@@ -1,5 +1,10 @@
 <h1> Oiii! Eu sou o Lucas </h1>
 
+- Tenho 17 aninhos 😀
+- Amo correr 🏃‍♂️
+- Vulgo "Marmita" 😂
+- Aprendendo a programar 💻
+
 <div align="center">
   <a href="https://github.com/lucasvonryn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvonryn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
